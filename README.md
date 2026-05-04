@@ -13,9 +13,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,html,js,cpp,cs,mysql,ts,nodejs" />
 </p>
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nondieddd&layout=compact&theme=transparent&hide_border=true" height="150" alt="Languages" />
-</p>
