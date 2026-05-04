@@ -11,5 +11,5 @@
 ### Software Developer
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,html,js,cpp,cs,mysql,ts,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,py,html,js,cpp,cs,mysql,ts,nodejs,php" />
 </p>
