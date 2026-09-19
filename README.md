@@ -6,23 +6,23 @@
 
 <br />
 
-<img width="850" height="1" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F3F1EA&height=2&width=850" />
 
 <br /><br />
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,rust,py,go,cs,cpp,react,nextjs,nodejs,nestjs,spring,dotnet,tailwind,electron,docker,fedora,git,vercel&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,rust,py,go,cs,cpp,react,nextjs,nodejs,nestjs,spring,dotnet,tailwind,electron,docker,linux,git,vercel&theme=dark&perline=10" />
 
 <br /><br />
 
-<img width="850" height="1" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F3F1EA&height=2&width=850" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nondieddd&theme=dark&hide_border=true&background=00000000&stroke=26262B&ring=F3F1EA&fire=F3F1EA&currStreakLabel=F3F1EA&sideNums=F3F1EA&dates=8C8B93" width="480" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nondieddd&theme=react-dark&bg_color=00000000&color=F3F1EA&line=F3F1EA&point=F3F1EA&area=true&area_color=F3F1EA&hide_border=true&hide_title=true" width="850" />
 
 <br /><br />
 
-<img width="850" height="1" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F3F1EA&height=2&width=850" />
 
 <br /><br />
 
